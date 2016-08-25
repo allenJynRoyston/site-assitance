@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
-<url> <loc>http://allenroyston.com/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://allenroyston.com/resume</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://allenroyston.com/portfolio/sites</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://allenroyston.com/portfolio/github</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://www.semanticui-ang2.com/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://www.semanticui-ang2.com/install</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://www.semanticui-ang2.com/features</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://www.semanticui-ang2.com/features/accordion</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://www.semanticui-ang2.com/features/dimmer</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://www.semanticui-ang2.com/features/dropdown</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://www.semanticui-ang2.com/features/embed</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://www.semanticui-ang2.com/features/modal</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://www.semanticui-ang2.com/features/popup</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://www.semanticui-ang2.com/features/progress</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://www.semanticui-ang2.com/features/rating</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://www.semanticui-ang2.com/features/sidebar</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://www.semanticui-ang2.com/features/shape</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://www.semanticui-ang2.com/features/tab</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://www.semanticui-ang2.com/features/transition</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://www.semanticui-ang2.com/features/visibility</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 </urlset>
